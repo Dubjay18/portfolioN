@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Oluwayanfunmi Jeje",
+    "occupation": "Full-stack || Blockchain developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "pp.jpg",
+    "bio": "I'm passionate about tech, i've been a full-stack developer for one year, i'm a good problem solver, a chess player and a hard working person. I have experience in the following technologies: React Js, Redux, Mongodb, Firebase, Postgresql, HTML, CSS, Materal UI, Tailwind CSS and Next Js.",
+    "contactmessage": "Get in touch with me!",
+    "email": "Jejeniyi7@gmail.com",
+    "phone": "+2349130860401",
+    "address": {
+      "street": "Olonade Street",
+      "city": "Ile-ife",
+      "state": "Osun-state",
+      "zip": "220212"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/@YanfunmiJ",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Dubjay18",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Obafemi Awolowo University, ile-ife, Nigeria",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2026",
+        "description": "-----"
+      }
+    ],
+    "work": [
+      {
+        "company": "HNG",
+        "title": "Frontend Intern",
+        "years": "August 2021 - October 2021",
+        "description": "Worked with other interns to build projects"
+      },
+      {
+        "company": "Kodecamp",
+        "title": "Frontend Intern/Trainee",
+        "years": "August 2021 - =December 2021",
+        "description": "Worked with other interns to build projects and i was trained by successful web developers."
+      },
+      {
+        "company": "Alx_africa",
+        "title": "Software engineer Intern",
+        "years": "Feburary 2022 - Present",
+        "description": "Learning everything i need to know on software engineering including( Devops, git, C programming, Frontend and Backend development. Will also build projects with other software engineers"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Soldity",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack-clone-51ace.web.app_room_e1ZuZtiFgxLi53K3fb8A (1).png",
+        "url": "https://slack-clone-51ace.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "net1.jpg",
+        "url": "https://netflix-clone-jay.netlify.app/"
+      },
+      {
+        "title": "Metaverse Chat app",
+        "category": "",
+        "image": "jaymetaverse.vercel.app_.png",
+        "url": "https://netflix-clone-jay.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yanfunmi is a very good developer and his debugging skills are awesome",
+        "user": "Oruebor Manasseh"
+      }
+    ]
+  }
+}
