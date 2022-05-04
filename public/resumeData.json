@@ -112,7 +112,13 @@
         "category": "",
         "image": "jaymetaverse.vercel.app_.png",
         "url": "https://netflix-clone-jay.netlify.app/"
-      }
+      }, 
+{
+"title":" Todo App", 
+"category": "",
+"image":"todo.png", 
+"url":"https://todofrontend-jvbca17ty-dubjay18.vercel.app/"
+}
     ]
   },
   "testimonials": {
