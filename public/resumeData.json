@@ -14,7 +14,7 @@
       "state": "Osun-state",
       "zip": "220212"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://github.com/Dubjay18",
     "resumedownload": "http://papareact.com",
     "social": [
       {
@@ -89,6 +89,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "JayMovies (React JS)",
+        "category": "",
+        "image": "jaymovies.jpg",
+        "url": "https://jay-movies.vercel.app/"
+      },
       {
         "title": "Slack Clone (React JS)",
         "category": "",
